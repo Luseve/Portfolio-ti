@@ -91,7 +91,7 @@ Currently, I’m focusing my studies on **AI, Cloud Computing, and Cybersecurity
 
 ## 🌍 Contact
 📧 **E-mail:** [sandro.07@hotmail.com](mailto:sandro.07@hotmail.com)  
-💼 LinkedIn: [Sandro Aparecido Caldeira Nascimento]([https://www.linkedin.com/in/sandro-caldeira](https://www.linkedin.com/in/sandro-caldeira-a32708192)/)
+💼 LinkedIn: [Sandro Aparecido Caldeira Nascimento]([https://www.linkedin.com/in/sandro-caldeira](https://www.linkedin.com/in/sandro-caldeira-a32708192)
 💻 **GitHub:** [https://github.com/Luseve](https://github.com/Luseve)
 
 ---
